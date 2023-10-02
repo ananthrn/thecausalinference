@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/103902448/164163511-37d22660-905c-4355-a6f4-91c6eee2d1a4.png)
-# Unemployables Portfolio Template
-A template for the Unemployables who need to showcase their creative work, whatever that may be.
+# Machine Learning Project Template
+
+A project page for all of my Machine Learning Related Work.
+
 <br /><br />
 **Demo:** https://ndoherty-xyz.github.io/unemployables-portfolio-template/
 <br />
@@ -35,12 +37,7 @@ This template is mobile friendly, so you won't have to worry about your site not
 <br />
 
 **Template instructions:**
-1. Click the `Use As Template` button above and name your new repository (it should be set to public).
-2. Clone your newly created repo to your local machine.
-3. Navigate to the cloned repo on your machine and open `index.html` with your browser.
-4. Open the repo folder in your favorite code editor and start editing. (Make sure to refresh the browser to see the code changes you make!)
-5. Publish your site by pushing your commits to your repo.
-6. Set up Github Pages (guide further down!)
+
 <br />
 <br />
 
@@ -75,7 +72,7 @@ Search for it and you'll find all the changes you need to make. That being said,
 5. The project page is now linked to the homepage! Customize the page and `"project-card"` to your heart's content. 
 <br />
 
-### Adding images to the project gallery
+### Projects that I'm proud of
 1. Make sure the images that you want to show are added to the `assets/images` folder
 2. Open the project page you want to edit and find the `div` with `class="project-gallery-content"`
 3. To add an image, copy one of the two templates below and paste them into the `project-gallery-content`
@@ -100,15 +97,11 @@ Half Width Image:
 <br />
 <br />
 
-## Publishing with Github Pages
+## Contact Me
 Github Pages allows us to host this website for free! It's pretty simple to set up as well.
 
-1. Head to `Settings` on the repository
-2. The repository will need to be public for this work (if it's not, navigate to `General` and scroll all the way down to `Change repository visibility`. Make it public)
-3. Navigate to `Pages` in the sidebar
-5. For `Source` choose `main` from the dropdown. Save the changes.
-6. That's it! Github should give you a URL that your website is published on (give it a few minutes to update).
-7. To add a custom domain (i.e. yourname.com), follow this guide: https://medium.com/codex/add-a-custom-domain-to-your-github-pages-personal-website-53ab40e7c7d0
+1. [Linkedin]([url](https://www.linkedin.com/in/ananth-ravi-narayan/))
+2. [Email](emailto:ananth360@gmail.com) 
 <br />
 <br />
 
