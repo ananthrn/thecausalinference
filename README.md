@@ -18,9 +18,10 @@ A project page for all of my Machine Learning Related Work.
 <br />
 <br />
 
-## About this template
-After seeing the mission of Unemployables (https://unemployables.io/) to help people become self-employed and grow their businesses, I immediately thought about helping people build portfolios. It's something that I've helped friends with in the past and really enjoyed doing. <br /><br />
-This template is mobile friendly, so you won't have to worry about your site not working on phones.
+## About this page
+
+I'd like to have my machine learning projects listed here for easy of use. 
+
 <br />
 <br />
 
